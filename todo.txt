@@ -1,0 +1,13 @@
+sounds - sfx
+car particles (tyre trails and smoke particles)
+reset button - level reset
+boscheti and water
+more cars
+more maps
+another camera angle + button to switch between them
+
+done
+---------------------------------
+reset button - car reset
+sounds - background music
+gravity force ONLY on car
